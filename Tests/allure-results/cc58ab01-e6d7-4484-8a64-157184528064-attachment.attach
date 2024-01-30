@@ -1,0 +1,6 @@
+
+URL: https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/fio
+    
+Failure: net::ERR_ABORTED
+     
+Body: "{\"parts\":[\"SURNAME\",\"NAME\",\"PATRONYMIC\"],\"query\":\"\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\",\"count\":5}"

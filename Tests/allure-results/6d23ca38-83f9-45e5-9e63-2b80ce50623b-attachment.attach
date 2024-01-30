@@ -1,0 +1,6 @@
+
+URL: https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/email
+    
+Failure: net::ERR_ABORTED
+     
+Body: "{\"query\":\"j\",\"count\":5}"
